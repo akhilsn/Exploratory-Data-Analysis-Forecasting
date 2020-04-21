@@ -1,2 +1,2 @@
-# Exploratory-Data-Analysis-on-Loan-Defaulters-and-Driving-Factors-towards-Loan-Defaults
+### Exploratory-Data-Analysis-on-Loan-Defaulters-and-Driving-Factors-towards-Loan-Defaults
 To understand how data could be used to minimize the risk of losing money while lending to customers for a Consumer Finance Company by applying Exploratory Data Analysis techniques.The aim is to identify patterns through Univariate/ Bivariate analysis to establish the driving factors that are indicate the borrower's loan defaulting tendency, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
