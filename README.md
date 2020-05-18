@@ -1,4 +1,4 @@
-## Exploratory Data Analysis on Loan Defaulters and Driving Factors towards Loan Defaults
+## 1. EDA on Loan Defaulters and Driving Factors towards Loan Defaults
 
 ### Abstract
 This project is related to a consumer finance company which specializes in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
@@ -34,3 +34,18 @@ To summarize our findings:
 9. Also last but not the least a trend was observed that the loans of term 60 months defaulted much more than that of 36 months
 
 In general if caution is exerted focusing on these factors while lending out money we believe that the default rate would drop.
+
+
+
+### 2. EDA on Spark Funds Investment Planning Strategy Data Analysis
+
+For SPARK FUNDS (an asset management firm) to effectively invest in companies, it needs to analyse and understand the global investment trends. The objective is to identify the best sectors, countries, and a suitable investment type for making investments. The overall strategy is to invest where others are investing, implying that the 'best' sectors and countries are the ones 'where most investors are investing'.
+
+While doing this study, SPARK FUNDS constraints have been kept in mind, namely, 
+
+1) The firm wishes to invest between 5 – 15 million USD per round of investment, and 
+2) wants to invest in English speaking countries only for ease of communication with the companies. For this, global trends have been studied to find out which funding types, countries suit our requirements better. 
+    
+Also from the data available, top sectors that have been most preferred in various countries have also been studied.
+
+Through this, an exhaustive list of data has been prepared and visualization results are shared to find out the firm’s investment targets.
